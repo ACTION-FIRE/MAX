@@ -1,22 +1,20 @@
-BANGLADESHI RANDOM CLONE
+
+# BANGLADESHI RANDOM CLONE
 </p>
   
 #### INSTALL TOOL ON TERMUX
 ```python
  
 pkg install python
-
 pkg install git
-
 pip2 install requests
-
 pip2 install mechanize
-
 pip install requests
-
 pip install mechanize
 rm -rf MAX
- git clone https://github.com/ACTION-FIRE/MAX.git
+git clone https://github.com/ACTION-FIRE/MAX.git
+cd MAX
+python FIRE.py
 ```
 #### RUN SCRIPT
 ```python
@@ -33,4 +31,10 @@ rm -rf MAX
 
 
 
+ 
+
+
+
+
+ 
  
