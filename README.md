@@ -16,7 +16,7 @@
  
  pip install mechanize
  
- rm -rf MAX`
+ rm -rf MAX
 
  git clone https://github.com/ACTION-FIRE/MAX.git
 
