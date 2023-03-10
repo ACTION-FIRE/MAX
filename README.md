@@ -1,36 +1,36 @@
 
- ## RANDOM 
+  ## RANDOM 
 </p>
   
 #### INSTALL TOOL ON TERMUX
 ```python
-`pkg install python`
+ pkg install python
  
-`pkg install git`
+ pkg install git
  
-`pip2 install requests`
+ pip2 install requests
  
-`pip2 install mechanize`
+ pip2 install mechanize
  
-`pip install requests`
+ pip install requests
  
-`pip install mechanize`
+ pip install mechanize
  
-`rm -rf MAX`
+ rm -rf MAX`
 
-`git clone https://github.com/ACTION-FIRE/MAX.git`
+ git clone https://github.com/ACTION-FIRE/MAX.git
 
-`cd MAX`
+ cd MAX
 
-`python FIRE.py`
+ python FIRE.py
 ```
 #### RUN SCRIPT
 ```python
-`git pull`
+ git pull
  
-`cd MAX`
+ cd MAX
  
-`python FIRE.py`
+ python FIRE.py
 ```
  
 ## Find Me on :
