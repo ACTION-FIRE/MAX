@@ -24,6 +24,8 @@
 
  python FIRE.py
 ```
+___This Tool is Paid Enjoy Dear User.___</br>
+ 
 #### RUN SCRIPT
 ```python
  git pull
