@@ -28,7 +28,7 @@ rm -rf MAX
 ## Find Me on :
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/ft.alvi.18)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/ft.alvi.18)
-[![Github](https://img.shields.io/badge/Github-FB-KINGgreen?style=for-the-badge&logo=github)](https://github.com/ACTION-FIRE)
+[![Github](https://img.shields.io/badge/Github-ACTION-FIREgreen?style=for-the-badge&logo=github)](https://github.com/ACTION-FIRE)
  
 
 
